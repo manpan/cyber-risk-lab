@@ -84,8 +84,8 @@ show_related = {post = true, project = true, publication = true, talk = true}
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
+email = "e.panaousis@greenwich.ac.uk"
+# phone = ""
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
@@ -96,7 +96,7 @@ address = {street = "Old Royal Naval College, Park Row", city = "Greenwich", reg
 coordinates = {latitude = "51.48322704555378", longitude = "-0.006653284659120288"}
 
 # Directions for visitors to locate you.
-directions = "Enter Building 1 and take the stairs to Reception on Floor 2"
+# directions = "Enter Building 1 and take the stairs to Reception on Floor 2"
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
