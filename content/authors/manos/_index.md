@@ -50,7 +50,7 @@ highlight_name: true
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Principal Investigator
+- Principal Investigators
 ---
 I am an Associate Professor at the School of Computing and Mathematical Sciences, University of Greenwich, since 2019. I have founded the Cyber Risk Lab (CRL) as the Cyber Risk and Enterprise Lead of the Internet of Things and Security Centre (ISEC). I am also an IEEE Senior Member, member of the EPSRC Associate Peer Review College, and Associate Editor of the IET Information Security journal. Before, I held appointments at the University of Surrey, University of Brighton, Imperial College London, Queen Mary University London, and Ubitech Technologies Ltd.
 
