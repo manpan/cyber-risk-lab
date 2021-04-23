@@ -6,7 +6,7 @@
 widget: hero  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
-title: "Cyber Risk Lab"
+title: "Welcome to our website!"
 subtitle: ""
 hero_media: welcome.jpg
 design:
@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-We are located at the University of Greenwich and work on cyber risk management challenges proposing new models and implementing solutions for addressing them!
+The Cyber Risk Lab (CRL) is located at the University of Greenwich and work on cyber risk management challenges proposing new models and implementing solutions for addressing them!
