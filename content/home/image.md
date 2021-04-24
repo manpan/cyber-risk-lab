@@ -23,6 +23,7 @@ design:
     image_parallax: false
     image_position: center
     image_size: cover
+    background-size: 50%
     text_color_light: true
   spacing:
     padding: ["0", "0", "0", "0"]
