@@ -45,10 +45,10 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = ""
+org_name = "The Cyber Risk Lab"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
-description = "My research group description."
+description = "The mission of the Cyber Risk Lab (CRL) is to tackle research challenges within the field of cyber risk management and the goal to invent methods to supoort cyber security decision-makers with their constant ''fights'' against cyber threats."
 
 ############################
 ## Site Features
@@ -182,9 +182,9 @@ plugins_js  = []
   #   2: Compact
   #   3: Card
   #   4: Citation (publications only)
-  post_view = 2
-  publication_view = 2
-  talk_view = 2
+  post_view = 3
+  publication_view = 3
+  talk_view = 3
 
 ############################
 ## Comments
