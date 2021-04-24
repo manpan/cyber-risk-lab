@@ -22,7 +22,7 @@ design:
     image_darken: 0
     image_parallax: false
     image_position: center
-    image_size: scale-down
+    image_size: "actual"
     # background-size: 50%
     text_color_light: true
   spacing:
