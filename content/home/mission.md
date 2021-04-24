@@ -15,6 +15,6 @@ CRL's research on cyber risk management studies how to address risk from differe
 
 CRL's members include postdoctoral researchers, PhD students, MSc students, Software Developers, and undergraduate students all working in topics relevant to cyber risk management. CRL is based at the University of Greenwich yet has also established external collaborations with other academic groups and industrial partners.
 
-<!-- Academic partners working closely with CRL members are City University of London, Imperial College, UCL, Queen Mary University of London, University of Bristol, University of Reading, University of Piraeus Research Centre, University of Delft, University of Surrey, University of Houston. Industrial partners have collaborated in the past or currently collaborate with CRL include the IASME Consortium, BT, Nokia, Phillips, ATOS, NEC, Intrasoft International, Ubitech Limited, Almerys, Schneider Electric, and Engineering.
+Academic partners working closely with CRL members are City University of London, Imperial College, UCL, Queen Mary University of London, University of Bristol, University of Reading, University of Piraeus Research Centre, University of Delft, University of Surrey, University of Houston. Industrial partners have collaborated in the past or currently collaborate with CRL include the IASME Consortium, BT, Nokia, Phillips, ATOS, NEC, Intrasoft International, Ubitech Limited, Almerys, Schneider Electric, and Engineering.
 
-CRL's recent work has been funded by the National Center for Cyber Security (NCSC), the EPSRC, and the European Commission. -->
+CRL's recent work has been funded by the National Center for Cyber Security (NCSC), the EPSRC, and the European Commission.
