@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 30
 
-title:
+title: Partners and funders
 subtitle:
 
 design:
