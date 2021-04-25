@@ -20,7 +20,7 @@ design:
   background:
     image: partners.jpg
     image_darken: 0
-    image_parallax: true
+    image_parallax: false
     image_position: center
     image_size: contain
     text_color_light: true
