@@ -7,13 +7,13 @@ widget: blank
 active: true
 
 # This file represents a page section.
-headless: false
+headless: true
 
 # Order that this section appears on the page.
 weight: 30
 
-title: Partners and Funders
-subtitle:
+title:
+subtitle: Partners and Funders
 
 design:
   columns: "2"
