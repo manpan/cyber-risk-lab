@@ -29,4 +29,5 @@ design:
   columns: '1'
 ---
 
-We are always seeking to learn something new, formulate new research problems, and understand industrial problems. We are passionate about engaging with researchers and industrial leaders to discuss cyber challenges. If you are an undergraduate or postgraduate who wishes to pursue some project within the topics of our expertise, we love to hear from you.
+We are always seeking to learn something new, formulate new research problems, and understand industrial problems. We are passionate about engaging with researchers and industrial leaders to discuss cyber challenges. We also work with
+undergraduate and postgraduate students who contribute to our research within the topics of our expertise. If you meet one of these profiles and wish to reach out to us, we will love to hear from you.
