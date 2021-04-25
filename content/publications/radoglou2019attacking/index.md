@@ -12,7 +12,7 @@ abstract: "The rapid evolution of the Information and Communications Technology 
 tags: [Risk control]
 categories: [Conference]
 featured: false
-url_pdf: "papers/radoglou2019attacking.pdf"
+url_pdf: "http://www.manospanaousis.com/papers/radoglou2019attacking.pdf"
 image:
   caption: ""
   focal_point: ""

@@ -12,7 +12,7 @@ abstract: "Insurance, in general, is a financial contract between the one buying
 tags: [Security Economics]
 categories: []
 featured: false
-url_pdf: "papers/panda2021cyber.pdf"
+url_pdf: "http://www.manospanaousis.com/papers/panda2021cyber.pdf"
 image:
   caption: ""
   focal_point: ""

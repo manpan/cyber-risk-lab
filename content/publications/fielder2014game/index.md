@@ -12,8 +12,8 @@ summary: ""
 tags: [Security Economics, Game Theory]
 categories: [Conference]
 featured: false
-url_pdf: "papers/fielder2014game.pdf"
-url_slides: "slides/fielder2014game-slides.pdf"
+url_pdf: "http://www.manospanaousis.com/papers/fielder2014game.pdf"
+url_slides: "http://www.manospanaousis.com/slides/fielder2014game-slides.pdf"
 image:
   caption: ""
   focal_point: ""

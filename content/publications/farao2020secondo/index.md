@@ -16,8 +16,8 @@ abstract: "This paper represents the SECONDO framework to assist organizations w
 tags: [Security Economics]
 categories: []
 featured: false
-url_pdf: "papers/farao2020secondo.pdf"
-url_slides: "slides/farao2020secondo-slides.pdf"
+url_pdf: "http://www.manospanaousis.com/papers/farao2020secondo.pdf"
+url_slides: "http://www.manospanaousis.com/slides/farao2020secondo-slides.pdf"
 # url_slides: "https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8894107"
 image:
   caption: ""
