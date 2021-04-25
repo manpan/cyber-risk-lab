@@ -16,11 +16,11 @@ title: Partners and Funders
 subtitle:
 
 design:
-  columns: "2"
+  columns: "1"
   background:
     image: partners.jpg
     image_darken: 0
-    image_parallax: false
+    image_parallax: true
     image_position: center
     image_size: cover
     text_color_light: true
