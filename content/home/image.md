@@ -16,7 +16,7 @@ title:
 subtitle: Partners and Funders
 
 design:
-  columns: "1"
+  columns: "2"
   background:
     image: partners.jpg
     image_darken: 0
