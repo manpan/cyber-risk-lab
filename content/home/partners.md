@@ -16,4 +16,3 @@ advanced:
   css_style:
   css_class:
 ---
-Our academic partners are City University of London, Imperial College, UCL, Queen Mary University of London, University of Bristol, University of Reading, University of Piraeus Research Centre, University of Delft, University of Surrey, University of Houston. Industrial partners have collaborated in the past or currently collaborate with CRL include the IASME Consortium, BT, Nokia, Phillips, ATOS, NEC, Intrasoft International, Ubitech Limited, Almerys, Schneider Electric, and Engineering. We are also collaborating with the MITRE Association.
