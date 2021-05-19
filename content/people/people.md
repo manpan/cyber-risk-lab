@@ -18,9 +18,6 @@ content:
   user_groups:
   - Faculty
   - Researchers
-  - Grad Students
-  - Administration
-  - Visitors
   - Alumni
 design:
   show_interests: false
