@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Business Model Analyst
+role: Business Modelling Analyst
 
 # Organizations/Affiliations
 organizations:
