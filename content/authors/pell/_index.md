@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Doctoral Researcher ()
+role: Doctoral Researcher (DETER)
 
 # Organizations/Affiliations
 organizations:
