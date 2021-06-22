@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Business Modelling Analyst
+role: Business Modelling Analyst (SecurityBudget)
 
 # Organizations/Affiliations
 organizations:

@@ -6,7 +6,7 @@ authors:
 
 superuser: false
 
-role: Postdoctoral Researcher
+role: Postdoctoral Researcher (SPEAR)
 
 organizations:
 - name: University of Surrey
