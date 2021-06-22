@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Final Year Project Researcher
+role: Final Year Project Researcher (CHAI)
 
 # Organizations/Affiliations
 organizations:

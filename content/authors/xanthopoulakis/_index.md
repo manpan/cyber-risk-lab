@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Software Developer (external partner)
+role: Senior Software Developer (SecurityBudget)
 
 # Organizations/Affiliations
 organizations:

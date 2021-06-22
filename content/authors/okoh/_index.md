@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher
+role: Postdoctoral Researcher (CUREX)
 
 # Organizations/Affiliations
 organizations:

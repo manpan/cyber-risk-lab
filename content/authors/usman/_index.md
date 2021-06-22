@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher (Senior Lecturer, University of South Wales)
+role: Postdoctoral Researcher (SPEAR, next: Senior Lecturer, University of South Wales)
 
 # Organizations/Affiliations
 organizations:

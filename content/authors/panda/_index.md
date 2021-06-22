@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Doctoral Researcher
+role: Doctoral Researcher (SECONDO, MERIT, CUREX)
 
 organizations:
 - name: University of Surrey and University of Greenwich
