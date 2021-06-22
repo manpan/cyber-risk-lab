@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Engineer (SPEAR, next: Data Scientist, Enteromics)
+role: Research Engineer (SPEAR)
 
 # Organizations/Affiliations
 organizations:

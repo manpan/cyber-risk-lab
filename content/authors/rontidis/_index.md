@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD student (Air Defence Officer, Hellenic Air Force)
+role: PhD student 
 
 # Organizations/Affiliations
 organizations:
