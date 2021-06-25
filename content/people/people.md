@@ -19,7 +19,8 @@ content:
   - Faculty
   - Researchers
   - Alumni
-  - Visiting
+  - Visiting Researchers
+  - Business Partners
 design:
   show_interests: false
   show_role: true
