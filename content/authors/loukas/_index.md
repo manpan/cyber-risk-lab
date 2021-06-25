@@ -6,7 +6,7 @@ title: George Loukas
 superuser: true
 
 # Role/position
-role: Head of ISEC, Professor of Cyber Security
+role: Professor of Cyber Security
 
 # Organizations/Affiliations
 organizations:
