@@ -18,9 +18,10 @@ content:
   user_groups:
   - Faculty
   - Researchers
-  - Alumni
-  - Visiting Researchers
   - Business Partners
+  - Visiting Researchers
+  - Alumni
+
 design:
   show_interests: false
   show_role: true
