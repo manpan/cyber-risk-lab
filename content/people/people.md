@@ -19,6 +19,7 @@ content:
   - Faculty
   - Researchers
   - Alumni
+  - Visiting
 design:
   show_interests: false
   show_role: true

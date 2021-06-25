@@ -11,7 +11,7 @@ role: Head of the Cyber Risk Lab, Associate Professor of Computer Science
 # Organizations/Affiliations
 organizations:
 - name: University of Greenwich
-  url: ""
+  url: "https://www.manospanaousis.com/"
 
 # Short bio (displayed in user profile at end of posts)
 #bio: My research interests include distributed robotics, mobile computing and programmable matter.
