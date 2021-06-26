@@ -19,7 +19,7 @@ light = true
 primary = "#3f3579" #purple
 menu_primary = "#3f3579" # header, purple
 menu_text = "#fff"
-menu_text_active = "#0E031E" # A100, orange
+menu_text_active = "#FFB300" # A100, orange
 menu_title = "#fff"
 
 # # Backgrounds
