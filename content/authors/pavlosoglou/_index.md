@@ -47,4 +47,4 @@ highlight_name: true
 user_groups:
 - Business Partners
 ---
-Yianni's profile is available at linkedin <a>https://www.linkedin.com/in/yiannisp/</a>.
+Yianni's profile is available at [(linkedin)](https://www.linkedin.com/in/yiannisp/).

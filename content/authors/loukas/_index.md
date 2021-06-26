@@ -49,4 +49,4 @@ highlight_name: true
 user_groups:
 - Faculty
 ---
-I am Professor of Cyber Security and Head of the IoT and Security (ISEC) Centre, carrying out research and teaching in cyber-physical security, Internet of Things security and human factors of cyber security. Before joining the Univ. of Greenwich I led London Technology Network's Security and Sensing steering group, and previously was a PhD and post-doctoral research associate at Imperial College (<a>http://www.georgeloukas.com/</a>).
+I am Professor of Cyber Security and Head of the IoT and Security (ISEC) Centre, carrying out research and teaching in cyber-physical security, Internet of Things security and human factors of cyber security. Before joining the Univ. of Greenwich I led London Technology Network's Security and Sensing steering group, and previously was a PhD and post-doctoral research associate at Imperial College [(personal website)](http://www.georgeloukas.com/).
