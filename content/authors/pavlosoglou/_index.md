@@ -14,7 +14,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: Yianni's profile is available at linkedin <a>https://www.linkedin.com/in/yiannisp/</a>.
+# bio:
 
 #interests:
 - Operational Resilience
@@ -47,3 +47,4 @@ highlight_name: true
 user_groups:
 - Business Partners
 ---
+Yianni's profile is available at linkedin <a>https://www.linkedin.com/in/yiannisp/</a>.
