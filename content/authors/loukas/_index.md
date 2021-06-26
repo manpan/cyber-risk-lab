@@ -11,15 +11,15 @@ role: Professor of Cyber Security
 # Organizations/Affiliations
 organizations:
 - name: University of Greenwich
-  url: "http://www.georgeloukas.com/"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am Professor of Cyber Security and Head of the IoT and Security (ISEC) Centre, carrying out research and teaching in cyber-physical security, Internet of Things security and human factors of cyber security. Before joining the Univ. of Greenwich I led London Technology Network's Security and Sensing steering group, and previously was a PhD and post-doctoral research associate at Imperial College (<a>http://www.georgeloukas.com/</a>)
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Cyber-physical attacks
+- Cyber deception
+- IoT security
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -49,4 +49,3 @@ highlight_name: true
 user_groups:
 - Faculty
 ---
-I am Professor of Cyber Security and Head of the IoT and Security (ISEC) Centre, carrying out research and teaching in cyber-physical security, Internet of Things security and human factors of cyber security. Before joining the Univ. of Greenwich I led London Technology Network's Security and Sensing steering group, and previously was a PhD and post-doctoral research associate at Imperial College.

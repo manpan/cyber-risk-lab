@@ -11,15 +11,16 @@ role: CISO
 # Organizations/Affiliations
 organizations:
 - name: Hellenic Ministry of Digital Governance
-  url: "https://www.linkedin.com/in/yiannisp/"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-#bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Yianni's profile is available at linkedin <a>https://www.linkedin.com/in/yiannisp/</a>.
 
 #interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+- Operational Resilience
+- CERT RMM
+- Ethical Hacking
+- Elected to Board of Directors of (ISC)&sup2;
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
