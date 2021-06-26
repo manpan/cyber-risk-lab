@@ -16,7 +16,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 # bio:
 
-#interests:
+interests:
 - Operational Resilience
 - CERT RMM
 - Ethical Hacking
