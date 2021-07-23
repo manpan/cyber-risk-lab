@@ -17,4 +17,4 @@ advanced:
   css_class:
 ---
 
-The Cyber Risk Lab (CRL) is located at the University of Greenwich and carries out research and development on cyber risk  challenges proposing new models and implementing solutions for addressing them!
+The Cyber Risk Lab (CRL) is located at the University of Greenwich and carries out research and development on cyber risk  challenges proposing new models and implementing solutions for addressing them

@@ -18,7 +18,6 @@ content:
   user_groups:
   - Faculty
   - Researchers
-  - Business Partners
   - Visiting Researchers
   - Alumni
 
