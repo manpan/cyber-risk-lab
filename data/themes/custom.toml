@@ -16,10 +16,12 @@ light = true
 # menu_title = "#fff"
 #
 
-primary = "#3f3579" #purple
-menu_primary = "#3f3579" # header, purple
+# primary = "#3f3579" #purple
+primary = "#434e78" #purple
+menu_primary = "#434e78" # header, purple
 menu_text = "#fff"
-menu_text_active = "#FFB300" # A100, orange
+# menu_text_active = "#FFB300" # A100, orange
+menu_text_active = "#ff5942" # A100, orange
 menu_title = "#fff"
 
 # # Backgrounds
