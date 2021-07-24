@@ -21,7 +21,7 @@ primary = "#434e78" #purple
 menu_primary = "#434e78" # header, purple
 menu_text = "#fff"
 # menu_text_active = "#FFB300" # A100, orange
-menu_text_active = "#ff5942" # A100, orange
+menu_text_active = "#FFB300" # A100, orange  ff5942
 menu_title = "#fff"
 
 # # Backgrounds
