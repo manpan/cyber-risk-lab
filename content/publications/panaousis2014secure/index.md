@@ -12,8 +12,8 @@ abstract: "Device-to-Device (D2D) communication is expected to be a key feature 
 # tags: [Cybersecurity, Cyber-Physical Systems]
 categories: []
 featured: false
-url_pdf: "http://www.manospanaousis.com/papers/panaousis2014secure.pdf"
-url_slides: "http://www.manospanaousis.com/slides/panaousis2014secure-slides.pdf"
+url_pdf: "papers/panaousis2014secure.pdf"
+url_slides: "slides/panaousis2014secure-slides.pdf"
 image:
   caption: ""
   focal_point: ""

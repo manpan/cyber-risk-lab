@@ -12,8 +12,8 @@ summary: ""
 tags: [IoT Security, Risk Modelling]
 categories: []
 featured: false
-url_pdf: "http://www.manospanaousis.com/papers/parsons2020how.pdf"
-url_slides: "http://www.manospanaousis.com/slides/parsons2020how-slides.pdf"
+url_pdf: "papers/parsons2020how.pdf"
+url_slides: "slides/parsons2020how-slides.pdf"
 image:
   caption: ""
   focal_point: ""

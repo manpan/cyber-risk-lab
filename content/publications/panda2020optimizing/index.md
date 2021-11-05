@@ -1,5 +1,5 @@
 ---
-title: "Optimizing investments in Cyber Hygiene for Protecting Healthcare Users"
+title: "Optimizing Investments in Cyber Hygiene for Protecting Healthcare Users"
 authors: [Sakshyam Panda, Emmanouil Panaousis, George Loukas, Christos Laoudias]
 date: 2020-02-15
 publishDate: 2020-02-15
@@ -14,7 +14,7 @@ We evaluate OST in a healthcare domain use case. In particular, on the Critical 
 tags: [Cryptography]
 categories: [Journal]
 featured: false
-url_pdf: "http://www.manospanaousis.com/papers/panda2020optimizing.pdf"
+url_pdf: "papers/panda2020optimizing.pdf"
 image:
   caption: ""
   focal_point: ""

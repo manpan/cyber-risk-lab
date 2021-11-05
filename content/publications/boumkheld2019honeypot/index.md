@@ -12,9 +12,9 @@ abstract: "In this paper, we define a cyber deception game between the Advanced 
 tags: [Game theory, Honeypots, Smart grid, Cyber security ]
 categories: []
 featured: false
-url_pdf: "http://www.manospanaousis.com/papers/boumkheld2019honeypot.pdf"
-url_slides: "http://www.manospanaousis.com/slides/boumkheld2019honeypot-slides.pdf"
-url_poster: "http://www.manospanaousis.com/slides/boumkheld2019honeypot-poster.pdf"
+url_pdf: "papers/boumkheld2019honeypot.pdf"
+url_slides: "slides/boumkheld2019honeypot-slides.pdf"
+url_poster: "slides/boumkheld2019honeypot-poster.pdf"
 image:
   caption: ""
   focal_point: ""

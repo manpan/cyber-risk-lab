@@ -13,7 +13,7 @@ abstract: "Nowadays, mobile users have a vast number of applications and service
 categories: []
 featured: false
 url_pdf: "https://arxiv.org/pdf/1601.00167.pdf"
-url_slides: "http://www.manospanaousis.com/slides/panaousis2015game-slides.pdf"
+url_slides: "slides/panaousis2015game-slides.pdf"
 image:
   caption: ""
   focal_point: ""
