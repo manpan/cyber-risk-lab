@@ -52,8 +52,26 @@ highlight_name: true
 user_groups:
 - Faculty
 ---
-I am an Associate Professor at the School of Computing and Mathematical Sciences, University of Greenwich, since 2019. I have founded the Cyber Risk Lab (CRL) as the Cyber Risk and Enterprise Lead of the Internet of Things and Security Centre (ISEC). I am also an IEEE Senior Member, member of the EPSRC Associate Peer Review College, and Associate Editor of the IET Information Security journal. Before, I held appointments at the University of Surrey, University of Brighton, Imperial College London, Queen Mary University London, and Ubitech Technologies Ltd.
+I am the Founder and Head of the Cyber Risk Lab [(CRL)](https://www.cyberrisklab.co.uk/) at the University of Greenwich. CRL consists of PhD students (from PhD to BSc), Research fellows, as well as Visiting fellow academics and industrial experts. It works in the field of cyber risk with the goal to invent and develop new models and methods that can impact the UK society by making it more secure and resilient against cyber threats.
 
-My research interests are in cybersecurity, including IoT security, security economics, and intrusion detection, using mathematical optimisation, game theory, and machine learning. My core expertise is in designing and implementing robust defences against adversarial behaviour.
+I also direct the Cyber Risk R&D strategy of the Internet of Things and Security Centre [(ISEC)](https://www.gre.ac.uk/research/groups/isec). In addition, I am acting as its liaison with industrial partners.
 
-My research has been funded by the National Cyber Security Centre [(NCSC)](https://www.ncsc.gov.uk/), the Research Institute in Sociotechnical Cyber Security [(RISCS)](https://www.riscs.org.uk/), the Engineering and Physical Sciences Research Council [(EPSRC)](https://epsrc.ukri.org/), the European Commission [(H2020)](https://ec.europa.eu/programmes/horizon2020/en), and the Greenwich Research & Enterprise (GRE).
+I sit on the Conference on Decision and Game Theory for Security [(GameSec)](https://www.gamesec-conf.org/) Advisory Committee panel. GameSec is a small but highly specialised conference in the intersection of cybersecurity and decision support. It attracts high quality contributions and has been instrumental in building and maintaining the community around this topic.
+
+I am an Associate Editor of the IET Information Security journal as well as reviewer of numerous journals including IEEE TIFS and TDSC.
+
+I am an Advisory Board member of the H2020 SPIDER project, member of the [(EPSRC)](https://epsrc.ukri.org) Associate Peer Review College, and Member of the College of Peer Reviewers of the [(REPHRAIN)](https://www.rephrain.ac.uk/) (National Research Centre on Privacy, Harm Reduction and Adversarial Influence Online).
+
+I have been involved, as Principal and co-Investigator, in grants in worth in excess of £20m, leading tasks, work packages, and the preparation of their bids (£2M) on the topic of cyber risk assessment, management and cybersecurity decision support. My research has been funded by the National Cyber Security Centre [(NCSC)](https://www.ncsc.gov.uk/), the Research Institute in Sociotechnical Cyber Security [(RISCS)](https://www.riscs.org.uk/), the Engineering and Physical Sciences Research Council [(EPSRC)](https://epsrc.ukri.org/), the European Commission [(H2020)](https://ec.europa.eu/programmes/horizon2020/en), and the Greenwich Research & Enterprise (GRE).
+
+My research involves:
+* Modelling cyber risk using threat modelling, vulnerability assessment, control-based risk assessment.
+* Studying the impact of cyber attacks in numerous use cases including healthcare, smart home, smart grid and 5G infrastructure.
+* Design and develop robust architectures as well as decision-support methods to mitigate cyber risks.
+* Modelling cybersecurity decisions using Cost-Benefit Analysis and AI techniques based on game theory and optimisation to determine optimal cyber-related behaviours subject to limited resources.
+
+
+
+<!-- I am an Associate Professor at the School of Computing and Mathematical Sciences, University of Greenwich, since 2019. I have founded the Cyber Risk Lab (CRL) as the Cyber Risk and Enterprise Lead of the Internet of Things and Security Centre (ISEC). I am also an IEEE Senior Member, member of the EPSRC Associate Peer Review College, and Associate Editor of the IET Information Security journal. Before, I held appointments at the University of Surrey, University of Brighton, Imperial College London, Queen Mary University London, and Ubitech Technologies Ltd.
+
+My research interests are in cybersecurity, including IoT security, security economics, and intrusion detection, using mathematical optimisation, game theory, and machine learning. My core expertise is in designing and implementing robust defences against adversarial behaviour. -->
