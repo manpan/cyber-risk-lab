@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Final Year Project Researcher (CHAI)
+role: Junior Researcher (Software Developer, Deutsche Bank)
 
 # Organizations/Affiliations
 organizations:
@@ -21,8 +21,8 @@ organizations:
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Security in domestic life
-- Human defences against adversarial AI apps
+- Smart-home security
+- Cyber risk management
 
 #education:
 #  courses:

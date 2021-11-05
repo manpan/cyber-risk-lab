@@ -1,28 +1,27 @@
 ---
 # Display name
-title: George Rontidis
+title: Christos Xenakis
 
 # Username (this should match the folder name)
 authors:
-- rontidis
+- xenakis
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student (Air Defence Officer, Hellenic Air Force)
+role: Professor of Cyber Security, Leader of the Hellenic Cyber Security Team
 
 # Organizations/Affiliations
 organizations:
-- name:  # Stanford University
-  url: ""
+- name: University of Piraeus
+  url: "https://www.unipi.gr/unipi/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
+bio: "Christos's webpage can be found [here](http://cgi.di.uoa.gr/~xenakis/)." # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- IoT security
-- Game theory
+- Network and Computer Security
 
 #education:
 #  courses:
@@ -65,5 +64,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Visiting Researchers
 ---
+Christos's webpage can be found [here](http://cgi.di.uoa.gr/~xenakis/).

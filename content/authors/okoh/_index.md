@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher (CUREX)
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations
 organizations:
@@ -21,8 +21,7 @@ organizations:
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Information Security Management
-- Cyber Controls
+- Information security management
 
 #education:
 courses:

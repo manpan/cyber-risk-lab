@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Software Developer (CUREX, MERIT)
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,8 @@ organizations:
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Web application development
+- Cyber risk management
+- Security for small businesses
 
 #education:
 #  courses:

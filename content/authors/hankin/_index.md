@@ -1,28 +1,29 @@
 ---
 # Display name
-title: George Rontidis
+title: Chris Hankin
 
 # Username (this should match the folder name)
 authors:
-- rontidis
+- hankin
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student (Air Defence Officer, Hellenic Air Force)
+role: Fellow of the Institute for Security Science and Technology, Professor of Computing Science
 
 # Organizations/Affiliations
 organizations:
-- name:  # Stanford University
-  url: ""
+- name: Imperial College # Stanford University
+  url: "https://www.imperial.ac.uk/security-institute/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
+bio: "Chris's short biography can be found [here](https://www.imperial.ac.uk/people/c.hankin)." # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- IoT security
-- Game theory
+- Security
+- Program analysis
+- Programming language theory
 
 #education:
 #  courses:
@@ -60,10 +61,11 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "c.hankin@imperial.ac.uk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Co-investigators
 ---
+Chris's short biography can be found [here](https://www.imperial.ac.uk/people/c.hankin).

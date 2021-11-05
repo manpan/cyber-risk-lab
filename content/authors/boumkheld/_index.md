@@ -6,14 +6,14 @@ authors:
 
 superuser: false
 
-role: Postdoctoral Researcher (SPEAR)
+role: Postdoctoral Researcher
 
 organizations:
 - name: University of Surrey
 
 interests:
 - Honeypots
-- Game Theory
+- Game theory
 
 user_groups:
 - Alumni

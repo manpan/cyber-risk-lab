@@ -1,29 +1,28 @@
 ---
 # Display name
-title: George Rontidis
+title: Etienne Roesch
 
 # Username (this should match the folder name)
 authors:
-- rontidis
+- roesch
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student (Air Defence Officer, Hellenic Air Force)
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name:  # Stanford University
+- name: University of Reading # Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- IoT security
-- Game theory
-
+- Perception, Attention, Consciousness, and Emotion
+- Technology (brain-computer interfaces, big data, internet of things)
 #education:
 #  courses:
 #  - course: PhD in Artificial Intelligence
@@ -65,5 +64,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Co-investigators
 ---
+Etienne's homepage can be found [here](https://www.reading.ac.uk/Psychology/About/staff/e-b-roesch.aspx).

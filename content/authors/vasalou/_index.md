@@ -1,28 +1,29 @@
 ---
 # Display name
-title: George Rontidis
+title: Asimina Vasalou
 
 # Username (this should match the folder name)
 authors:
-- rontidis
+- vasalou
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student (Air Defence Officer, Hellenic Air Force)
+role: Associate Professor
 
 # Organizations/Affiliations
 organizations:
-- name:  # Stanford University
+- name: UCL Knowledge Lab, UCL Institute of Education # Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- IoT security
-- Game theory
+- Information science
+- Interaction design
+- Education and technology studies
 
 #education:
 #  courses:
@@ -65,5 +66,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Co-investigators
 ---
+Asimina's short bio can be found [here](https://iris.ucl.ac.uk/iris/browse/profile?upi=MVASA31).

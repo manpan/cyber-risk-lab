@@ -1,28 +1,29 @@
 ---
 # Display name
-title: George Rontidis
+title: Tansu Alpcan
 
 # Username (this should match the folder name)
 authors:
-- rontidis
+- alpcan
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student (Air Defence Officer, Hellenic Air Force)
+role: Professor of Electrical and Electronic Engineering
 
 # Organizations/Affiliations
 organizations:
-- name:  # Stanford University
-  url: ""
+- name: The University of Melbourne
+  url: "https://www.unimelb.edu.au/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
+bio: "Tansu's webpage can be found [here](https://tansu.alpcan.org/)." # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- IoT security
-- Game theory
+- Cybersecurity
+- AI
+- IoT and Wireless Networks
 
 #education:
 #  courses:
@@ -65,5 +66,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Visiting Researchers
 ---
+Tansu's webpage can be found [here](https://tansu.alpcan.org/).

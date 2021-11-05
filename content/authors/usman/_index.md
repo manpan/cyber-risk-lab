@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Postdoctoral Researcher (SPEAR)
+role: Postdoctoral Researcher (Senior Lecturer, University of South Wales)
 
 # Organizations/Affiliations
 organizations:
@@ -21,8 +21,7 @@ organizations:
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Intrusion Detection
-- Reputation Management
+- Intrusion detection
 
 #education:
 #  courses:

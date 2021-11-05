@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Engineer (SPEAR)
+role: Junior Researcher (Software Developer, Hawk-Eye Innovations)
 
 # Organizations/Affiliations
 organizations:
@@ -21,8 +21,8 @@ organizations:
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Trust Management
-- Intrusion Detection
+- Trust management
+- Intrusion detection
 
 #education:
 #  courses:

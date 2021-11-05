@@ -1,28 +1,29 @@
 ---
 # Display name
-title: George Rontidis
+title: Kaitai Liang
 
 # Username (this should match the folder name)
 authors:
-- rontidis
+- liang
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student (Air Defence Officer, Hellenic Air Force)
+role: Assistant Professor of Cyber Security
 
 # Organizations/Affiliations
 organizations:
-- name:  # Stanford University
-  url: ""
+- name: Delft University of Technology # Stanford University
+  url: "https://www.tudelft.nl/cybersecurity/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
+bio: "Kaitai's publications can be found [here](https://scholar.google.com/citations?user=_qHKRH4AAAAJ&hl)." # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- IoT security
-- Game theory
+- Cryptography
+- Blockchain
+- Trusted computing
 
 #education:
 #  courses:
@@ -65,5 +66,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Visiting Researchers
 ---
+Kaitai's publications can be found [here](https://scholar.google.com/citations?user=_qHKRH4AAAAJ&hl).

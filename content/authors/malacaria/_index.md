@@ -1,28 +1,31 @@
 ---
 # Display name
-title: George Rontidis
+title: Pasquale Malacaria
 
 # Username (this should match the folder name)
 authors:
-- rontidis
+- malacaria
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student (Air Defence Officer, Hellenic Air Force)
+role: Professor of Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name:  # Stanford University
-  url: ""
+- name: Theory Group, Queen Mary University of London # Stanford University
+  url: "https://theory.eecs.qmul.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- IoT security
-- Game theory
+- Information Theory
+- Verification
+- Security
+- Game Theory
+- Program analysis
 
 #education:
 #  courses:
@@ -65,5 +68,6 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Co-investigators
 ---
+Pasquale's homepage can be found [here](http://www.eecs.qmul.ac.uk/~pm/).

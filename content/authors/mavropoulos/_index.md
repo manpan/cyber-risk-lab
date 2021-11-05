@@ -1,20 +1,20 @@
 ---
 # Display name
-title: George Rontidis
+title: Orestis Mavropoulos
 
 # Username (this should match the folder name)
 authors:
-- rontidis
+- mavropoulos
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student (Air Defence Officer, Hellenic Air Force)
+role: PhD student (Head of Engineering, Cyberlens)
 
 # Organizations/Affiliations
 organizations:
-- name:  # Stanford University
+- name: University of Brighton # Stanford University
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -22,7 +22,8 @@ bio: "" # My research interests include distributed robotics, mobile computing a
 
 interests:
 - IoT security
-- Game theory
+- Threat modelling
+- Security requirements engineering
 
 #education:
 #  courses:

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Research Engineer (SPEAR)
+role: Junior Researcher (Data Scientist, Enteromics)
 
 # Organizations/Affiliations
 organizations:

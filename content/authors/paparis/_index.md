@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Doctoral Researcher
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -21,9 +21,7 @@ organizations:
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Cyber Risk
-- Social Attacks
-- Security Economics
+- Security economics
 
 #education:
 #  courses:

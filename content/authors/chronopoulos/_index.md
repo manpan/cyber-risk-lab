@@ -1,28 +1,29 @@
 ---
 # Display name
-title: George Rontidis
+title: Michail Chronopoulos
 
 # Username (this should match the folder name)
 authors:
-- rontidis
+- chronopoulos
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: PhD student (Air Defence Officer, Hellenic Air Force)
+role: Senior Lecturer of Actuarial Science and Insurance
 
 # Organizations/Affiliations
 organizations:
-- name:  # Stanford University
-  url: ""
+- name: Cass Business School, City, University of London # Stanford University
+  url: "https://www.cass.city.ac.uk/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: "" # My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- IoT security
-- Game theory
+- Operations research
+- Real options
+- Security economics
 
 #education:
 #  courses:
@@ -65,5 +66,5 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Visiting Researchers
 ---
